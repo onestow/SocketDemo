@@ -1,4 +1,0 @@
-E:\Code\Demo\SocketDemo\Client\bin\Debug\Client.exe
-E:\Code\Demo\SocketDemo\Client\bin\Debug\Client.pdb
-E:\Code\Demo\SocketDemo\Client\obj\Debug\Client.exe
-E:\Code\Demo\SocketDemo\Client\obj\Debug\Client.pdb
